@@ -1,7 +1,0 @@
-class demo{
-public static void main(String[] args){
-System.out.println("hello");
-}
-}
-
-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
